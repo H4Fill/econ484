@@ -1,0 +1,17 @@
+variable name	description
+deny			= 1 if mortgage application denied
+p_irat			montly debt to income ratio
+black			= 1 if black
+hse_inc			montly housing expenses to income r
+loan_val		loan to property value ratio
+ccred			consumer credit score
+mcred			mortgage credit score
+pubrec			= 1 if any public record of credit
+denpmi			denied mortgage insurance
+selfemp			= 1 if self-employed
+single			= 1 if single
+hischl			= 1 if high school graduated
+probunmp		industry unemployment rate
+condo			= 1 if condominium
+ltv_med			medium loan to property value ratio [.80, .95]
+ltv_high		high loan to property value ratio > .95
